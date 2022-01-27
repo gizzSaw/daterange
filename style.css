@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    padding: 40px 0;
+    color: orangered;
+}
+div {
+    margin: 50px;
+}
